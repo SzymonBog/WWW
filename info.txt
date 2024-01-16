@@ -2,3 +2,5 @@ https://enzomind.com/files/uwm/wyklady/ProjAppWeb/lab10.pdf
 
 ścieżka: http://localhost/164345/164345_1/index.php
 http://localhost/164345/164345_1/index.php?idp=
+
+lab9 zostawilem na koniec
