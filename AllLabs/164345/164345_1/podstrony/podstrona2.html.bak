@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="pl" />
+<meta name="Author" content="Szymon Bogdański" />
+<title>Assety</title>
+</head>
+
+<body>
+<style>
+body {
+	background-image: url("background2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	}
+h1 {
+	color: gray;
+	margin-left: 40px;
+	}
+</style>
+
+<h1>Sztuka Tworzenia i Zarządzania Assetami w Grach</h1>
+<b>Tworzenie gier to nie tylko projektowanie poziomów i mechanik rozgrywki, ale także umiejętne zarządzanie aktywami (assets). Assety to kluczowy element każdej gry, obejmujący grafiki, dźwięki, modele 3D, animacje i wiele innych.</b>
+<h2>Blender</h2>
+<table>
+<tr>
+<td>Przy tworzeniu gier 3D, modele są kluczowe. Narzędzia do modelowania 3D, jak Blender czy Maya, pozwalają tworzyć skomplikowane obiekty i postacie.</td>
+</tr>
+<tr>
+<td><img src="blender1.jpg"></td>
+</tr>
+<tr>
+<td><img src="blender2.jpg"></td>
+</tr>
+<tr>
+<td><img src="blender3.jpg"></td>
+</tr>
+<tr>
+<td><img src="blender4.jpg"></td>
+</tr>
+</table>
+</body>
+</html>
